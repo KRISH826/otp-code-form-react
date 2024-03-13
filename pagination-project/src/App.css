@@ -1,0 +1,10 @@
+/** @format */
+.card-img-top {
+  height: 200px;
+  object-fit: contain;
+}
+
+.pagination button {
+  height: 38px;
+  line-height: 1;
+}
